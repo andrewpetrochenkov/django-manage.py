@@ -1,0 +1,13 @@
+{
+  "name": "django-manage",
+  "version": "2019.4.13",
+  "description": "standalone global manage.py",
+  "keywords": [
+    "django"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/django-manage.py",
+  "license": "Unlicense",
+  "bin": {
+    "manage.py": "./scripts/manage.py"
+  }
+}
