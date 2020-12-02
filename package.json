@@ -1,6 +1,6 @@
 {
   "name": "django-manage",
-  "version": "2019.4.13",
+  "version": "2020.12.2",
   "description": "standalone global manage.py",
   "keywords": [
     "django"
