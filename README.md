@@ -22,6 +22,7 @@ $ [sudo] npm i -g django-manage
 ```bash
 $ export DJANGO_SETTINGS_MODULE="<settings>"
 $ manage.py <command>
+$ python -m django_manage <command>
 ```
 
 <p align="center">
